@@ -1,0 +1,20 @@
+exit
+pwd
+clear
+cd ..
+cd tecker/
+exit
+clear
+echo hello > new.txt
+pwd
+clear
+jobs
+sleep 100 & sleep 100
+sleep 100 
+exit
+clear
+cat < pid.h | wc > out.txt
+clear
+cat < pid.h
+clear
+cat pid.h | wc
